@@ -2,7 +2,7 @@
 
 NgoConnect is a modern, verified crowdfunding platform connecting donors with authentic NGOs working on the ground. From rural education to women empowerment, we ensure your contribution creates real change.
 
-![NgoConnect Hero](/public/hero-image.jpg)
+
 
 ## 🌟 Key Features
 
