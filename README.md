@@ -68,6 +68,9 @@ NgoConnect is a modern, verified crowdfunding platform connecting donors with au
 3. **Simulate Payment**: Choose a wallet or card, and use the "Test Mode" to simulate a Pending or Failed transaction.
 4. **Admin Check**: Log in as Admin (credentials in source or pre-configured) to verify the pending donation.
 
+This is the video link describing the features
+https://drive.google.com/file/d/1_4myNDdVoAark3jS1BOT0riDiDP_UKhY/view?usp=sharing 
+
 ---
 
 Built with ❤️ for a better tomorrow.
